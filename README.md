@@ -2,6 +2,8 @@
 
 [Switchery](https://github.com/abpetkov/switchery) for Rails.
 
+### Forked from https://gitlab.com/zedtux/switchery-rails
+
 ## Installation
 
 Add this line to your application's Gemfile:
